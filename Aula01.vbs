@@ -44,7 +44,7 @@ Sub maiormenorcomfor()
 End Sub
 
 Sub maiormenorcomdowhile()
-
+    'teste 123
     'fui perguntando o numero, em seguida perguntando se o usuario quer inserir outro'
     resp = vbYes
     Set lista = CreateObject("System.Collections.ArrayList")
